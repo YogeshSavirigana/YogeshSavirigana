@@ -7,7 +7,7 @@
         I'm Yogesh Savirigana<br>
         Data Enthusiast<br>
           <div>
-  <img src="https://github.com/YogeshSavirigana/YogeshSavirigana/assets/120144989/3883d4fb-38d3-4142-a334-d76dd72b4f33" alt="Yogesh's Image" width="500" align = "right">
+  <img src="https://github.com/YogeshSavirigana/YogeshSavirigana/assets/120144989/3883d4fb-38d3-4142-a334-d76dd72b4f33" alt="Yogesh's Image" width="400" align = "right">
   </div>
       </abc>
     </h2>
