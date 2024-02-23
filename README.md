@@ -27,6 +27,6 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yogesh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ys96/)](https://www.linkedin.com/in/ys96)
-[![Portfolio](https://img.shields.io/badge/Portfolio-logo=github&logoColor=white)](https://yogeshsavirigana.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-style=for-the-badge&logo=github&logoColor=white)](https://yogeshsavirigana.github.io/portfolio/)
 
 
