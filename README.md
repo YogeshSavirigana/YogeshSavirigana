@@ -28,4 +28,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yogesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ys96/)](https://www.linkedin.com/in/ys96)
 
-https://yogeshsavirigana.github.io/portfolio/
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=github)](https://yogeshsavirigana.github.io/portfolio/)
+
