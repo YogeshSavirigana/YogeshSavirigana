@@ -62,10 +62,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YogeshSavirigana/YogeshSavirigana/output/snake.svg" alt="Snake animation" />
-
-###
