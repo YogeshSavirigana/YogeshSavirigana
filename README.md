@@ -5,7 +5,7 @@
         Hi there 👋<br>
         <br>
         I'm Yogesh Savirigana<br>
-        Data Enthusiast<br>
+        Software Engineer<br>
           <div>
   <img src="https://github.com/YogeshSavirigana/YogeshSavirigana/assets/120144989/3883d4fb-38d3-4142-a334-d76dd72b4f33" alt="Yogesh's Image" width="400" align = "right">
   </div>
@@ -17,11 +17,10 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :bar_chart: Passionate Data Analyst
+- :bar_chart: Passionate Application Development Analyst
 - :mortar_board: Pursuing a Master's in Business Analytics and Information Systems
-- :chart_with_upwards_trend: Expertise in data analysis, visualization, and machine learning
-- :gear: Proficient in Python, R, SQL, and data visualization tools
-- :rocket: Excited about uncovering insights and patterns in data
+- :chart_with_upwards_trend: Expertise in Software Engineering, data analysis, visualization, and machine learning
+- :gear: Proficient in .NET, C#, Python, R, SQL, and data visualization tools
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
