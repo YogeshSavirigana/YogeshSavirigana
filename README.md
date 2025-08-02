@@ -20,11 +20,9 @@
 - :bar_chart: Passionate Software Engineer.
 - :mortar_board: Pursuing a Master's in Business Analytics and Information Systems
 - :chart_with_upwards_trend: Expertise in Software Engineering, data analysis, visualization, and machine learning
-- :gear: Proficient in Python, Django, Flask, AWS, CI/CD, R, SQL, and data visualization tools
+- :gear: Proficient in Python, Django, Flask, Fast Api,  AWS, CI/CD, R, SQL, and data visualization tools
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yogesh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ys96/)](https://www.linkedin.com/in/ys96)
-[![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://yogeshsavirigana.github.io/portfolio/)
 
