@@ -6,9 +6,7 @@
         <br>
         I'm Yogesh Savirigana<br>
         Software Engineer<br>
-          <div>
-  <img src="https://github.com/YogeshSavirigana/YogeshSavirigana/assets/120144989/3883d4fb-38d3-4142-a334-d76dd72b4f33" alt="Yogesh's Image" width="400" align = "right">
-  </div>
+          
       </abc>
     </h2>
   </div>
